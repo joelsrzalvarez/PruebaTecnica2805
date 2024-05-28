@@ -1,6 +1,6 @@
 # Prueba técnica frontend
 
-Utilizando Angular y la siguiente API pública https://rickandmortyapi.com/ completa
+Utilizando React y la siguiente API pública https://rickandmortyapi.com/ completa
 los siguientes pasos (puedes hacerlos en el orden que más te guste).
 ### 1. Retrieve
 Llama a la API y muestra los personajes (characters) en pantalla (puedes usar
